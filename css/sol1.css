@@ -1,0 +1,57 @@
+.navbar {
+  overflow: hidden;
+  background-color: black;
+  border-radius: 0;
+  border: 0;
+  margin: 0;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+
+.container{
+
+  margin: 0;
+  padding: 0
+}
+
+.collapse{
+  margin: 0;
+  background-color: antiquewhite;
+  color:black;
+}
+
+
+
+
+.navbar-collapse{
+  margin:0;
+}
+
+.nav{
+  padding-left: 45%;
+  padding-right: 45%;
+  
+}
+
+
+
+section {
+  background-color: lightyellow;
+  margin:40px;
+  height: 1000px;
+}
+
+#par {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.collapse navbar-collapse{
+  float: right;
+}
